@@ -22,4 +22,5 @@ Score of 500 random bytes: 0.061490
 License
 =======
 Copyright 2014 Sölvi Páll Ásgeirsson
+
 The MIT License
