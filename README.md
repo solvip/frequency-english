@@ -12,11 +12,11 @@ For reference, a block of random data is also frequency analyzed
 
 Example output:
 ```
-$ ./frequency-english 
-Score of README.md: 0.538007
-Score of LICENSE: 0.460335
+$ ./frequency-english
+Score of README.md: 0.786828
+Score of LICENSE: 0.615260
 Score of corpus.txt: 1.000000
-Score of 500 random bytes: 0.061490
+Score of 500 random bytes: 0.096984
 ```
 
 License
